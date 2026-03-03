@@ -1,5 +1,7 @@
 # Docker + Redis Web App
 
+> 🤖 **This repository and application has been entirely created with AI (Claude) and MCP (Model Context Protocol) Tools.** No code was written manually - every file, commit and configuration was generated and pushed by an AI agent.
+
 A simple Python Flask web application using Redis as a hit counter, orchestrated with Docker Compose.
 
 ## Stack
@@ -66,3 +68,13 @@ docker compose down -v
 |----------|---------|-------------|
 | `REDIS_HOST` | `redis` | Redis hostname |
 | `REDIS_PORT` | `6379`  | Redis port |
+
+## 🤖 About AI & MCP Tools
+
+This project was entirely created by an AI agent (Claude by Anthropic) using MCP (Model Context Protocol) Tools to interact with GitHub. This includes:
+- Creating the GitHub repository
+- Writing all application code
+- Creating all configuration files
+- Writing this documentation
+
+No human wrote a single line of code or configuration!
